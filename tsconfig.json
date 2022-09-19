@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "moduleResolution": "node",
+        "target": "es2019",
+        "types": [
+            "node",
+            "webdriverio/async",
+            "@wdio/cucumber-framework",
+            "expect-webdriverio",
+            "wdio-intercept-service"
+        ],
+    }
+}
